@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Akronim&family=Kaushan+Script&family=Noto+Sans:wght@500&family=Poppins&family=Rubik+Microbe&family=Train+One&family=Urbanist&display=swap');
+
+.fix{
+    background-color: rgb(33, 35, 73);
+    width: 100%;
+    height: 100px;
+    margin-top: -150px;
+    position: fixed;
+    border-radius: 0;
+    
+    
+}
+
+
+h1{
+    margin-top: -65px;
+    margin-left: 43% ;
+}
+
+#logo{
+    margin-top: 8px;
+    width: 80px;
+    height: 80px;
+    margin-left: 36%;
+    box-shadow: none;
+
+}
+h1{
+    color: rgb(212, 106, 67);
+    font-family: 'Poppins', sans-serif;
+    font-size: xx-large;
+    /* font-family: 'Urbanist', sans-serif; */
+}
+
+
+.parent1{
+    margin-top: 150px;
+    background-color: white;
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content:space-evenly;
+   
+    
+}
+
+div{
+    margin-top: 50px;
+    background-color: rgb(252, 252, 255);
+    width: 17%;
+    height: 380px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 20px;
+
+}
+
+div:hover{
+    opacity: 0.6;
+}
+
+.parent2{
+    margin-top: 50px;
+    background-color: white;
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+img{
+    width: 100%;
+    border-radius: 20px;
+    height: 250px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.parent3{
+    margin-top: 50px;
+    background-color: white;
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.parent4{
+    margin-top: 50px;
+    background-color: white;
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content:space-evenly;
+}
+.parent5{
+    margin-top: 50px;
+    background-color: white;
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content:space-evenly;
+   
+    
+}
+
+.parent1:hover{
+    opacity: 100%;
+}
+.parent2:hover{
+    opacity: 100%;
+}
+.parent3:hover{
+    opacity: 100%;
+}
+.parent4:hover{
+    opacity: 100%;
+}
+.parent5:hover{
+    opacity: 100%;
+}
+.fix:hover{
+    opacity: 100%;
+}
+
+
+
+.a1{
+border-radius: 130px;
+height: 250px;
+    
+}
+
+.i1{
+
+    border-radius: 130px;
+    height:250px ;
+}
+
+#t1{
+    margin-top: -2335px;
+    margin-left: 50px;
+}
+
+#t2{
+    margin-top: 460px;
+    margin-left: 50px;
+}
+#t3{
+    margin-top: 460px;
+    margin-left: 50px;
+}
+#t4{
+
+    margin-top: 460px;
+    margin-left: 50px;
+
+}
+#t5{
+    margin-top: 460px;
+    margin-left: 50px;
+}
+body{
+    background-color: rgb(231, 226, 226);
+    height: 2200px;
+}
+p{
+    text-align: center;
+    padding: 5px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+button{
+    background-color:rgb(33, 35, 73); 
+    color: rgb(212, 106, 67) ;
+    margin-left: 50%;
+    margin-top: 100px;
+    height: 50px;
+    border-radius: 20px;
+}
+
+button:hover{
+
+    background-color: rgb(212, 106, 67) ;
+    color: rgb(33, 35, 73); 
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+}
+
+h3{
+    font-family: 'Noto Sans', sans-serif
+}
+
+.s1{
+    margin-left: 115px;
+    margin-top: 275px ;
+}
+.s2{
+    margin-left: 410px;
+    margin-top: -45px ;
+
+}
+.s3{
+    margin-left:700px;
+    margin-top: -45px ;
+}
+.s4{
+    margin-left:980px;
+    margin-top: -45px ;
+}
+.s5{
+    margin-left:1310px;
+    margin-top: -45px ;
+}
