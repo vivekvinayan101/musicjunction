@@ -12,19 +12,35 @@
 }
 
 
-h1{
-    margin-top: -65px;
-    margin-left: 43% ;
+.navbar-collapse{
+    height: 100px;
+    position: fixed;
+    width: 100%;
+}
+.navbar navbar-expand-lg{
+    height: 50px;
+}
+.nav-link active{
+    height: 50px;
 }
 
-#logo{
+.logo1{
+width: 50px;
+height:50px;
+}
+
+
+
+
+
+/* #logo{
     margin-top: 8px;
     width: 80px;
     height: 80px;
     margin-left: 36%;
     box-shadow: none;
 
-}
+} */
 h1{
     color: rgb(212, 106, 67);
     font-family: 'Poppins', sans-serif;
@@ -54,9 +70,9 @@ div{
 
 }
 
-div:hover{
+/* div:hover{
     opacity: 0.6;
-}
+} */
 
 .parent2{
     margin-top: 50px;
@@ -102,7 +118,7 @@ img{
     
 }
 
-.parent1:hover{
+/* .parent1:hover{
     opacity: 100%;
 }
 .parent2:hover{
@@ -119,7 +135,7 @@ img{
 }
 .fix:hover{
     opacity: 100%;
-}
+} */
 
 
 
@@ -169,7 +185,7 @@ p{
     
 }
 
-button{
+.end{
     background-color:rgb(33, 35, 73); 
     color: rgb(212, 106, 67) ;
     margin-left: 50%;
@@ -211,4 +227,21 @@ h3{
 .s5{
     margin-left:1310px;
     margin-top: -45px ;
+}
+
+.footer{
+    background-color: rgb(50, 49, 49);
+    width: 100%;
+    border-radius: 0px;
+    height: 200px;
+}
+
+.p1{
+    color: aliceblue;
+}
+.p2{
+    color: aliceblue;
+}
+.footer-links{
+    color: aliceblue;
 }
